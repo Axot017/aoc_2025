@@ -7,4 +7,5 @@ let time_it f =
 let () =
   time_it Day_1.run;
   time_it Day_2.run;
-  time_it Day_3.run
+  time_it Day_3.run;
+  time_it Day_4.run
